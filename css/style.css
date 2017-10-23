@@ -63,3 +63,7 @@ body{
 hr{
     background-color: #ffffff;
 }
+
+.message, .is-danger{
+    margin-top: 40px;
+}
